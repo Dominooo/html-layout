@@ -1,0 +1,32 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.top {
+  background-color: #333;
+  width: 100%;
+  height: 15%;
+}
+
+.background {
+  width: 100%;
+  height: 85%;
+  background-color: #999;
+}
+
+.fat {
+  width: 70%;
+  height: 90%;
+  background-color: #eee;
+  margin: auto;
+}
+
+.bottom {
+  background-color: #333;
+  width: 70%;
+  height: 10%;
+  margin: auto;  
+}
